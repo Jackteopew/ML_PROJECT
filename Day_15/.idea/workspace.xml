@@ -52,6 +52,7 @@
   <component name="RunManager" selected="Python.Cnn_train_fin">
     <configuration name="Cnn_train_fin" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeafDisease_2" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -74,6 +75,7 @@
     </configuration>
     <configuration name="predict_fin - Copy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeafDisease_2" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -96,6 +98,7 @@
     </configuration>
     <configuration name="predict_fin" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeafDisease_2" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -141,6 +144,7 @@
       <option name="presentableId" value="Default" />
       <updated>1699079328629</updated>
       <workItem from="1736951733274" duration="12000" />
+      <workItem from="1737212014701" duration="598000" />
     </task>
     <servers />
   </component>
